@@ -1,6 +1,6 @@
 <br />
 <p align="center">
-  <a href="https://template.karngyan.com">
+  <a href="https://swaraj.ninja">
     <img src="static/favicon.ico" alt="Logo" width="80" height="80">
   </a>
   <br/><br/>
