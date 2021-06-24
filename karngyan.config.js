@@ -59,7 +59,7 @@ export default {
     enabled: true,
     meta: [
       { name: 'Spikewell', src: '/images/spikewell.png', url: 'https://www.spikewell.com/' },
-      { name: 'Mindfire', src: '/images/amazon.png', url: 'https://www.mindfiresolutions.com/' }
+      { name: 'Mindfire', src: '/images/mindfire.jpg', url: 'https://www.mindfiresolutions.com/' }
     ]
   },
   loadingIndicator: {
