@@ -95,7 +95,7 @@ export default {
         haveALook: 'have a look',
         friendlyNeighborhood: 'your friendly neighborhood',
         description: 'i am a software engineer and a part time freelancer. i blog tech, write a weekend newsletter called software shots, and tinker with side projects every now n then.',
-        words: ['developer', 'designer', 'engineer', 'programmer', 'encoder'],
+        words: ['developer', 'designer', 'engineer', 'programmer'],
       },
       githubCalendar: {
         header: 'contributions',
