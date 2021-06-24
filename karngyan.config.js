@@ -1,10 +1,10 @@
 // Upload files in static/ So any file static/file.pdf -> /file.pdf is accessible at root
 
 export default {
-  name: 'gyan prakash karn',
-  domain: 'template.karngyan.com', // add without https:// , used in meta tags and share urls
+  name: 'swaraj priyadarshan dash',
+  domain: 'swaraj.ninja', // add without https:// , used in meta tags and share urls
   image: '/images/bigheadkarngyan.png',
-  email: 'mail@karngyan.com',
+  email: 'swarajdash40@gmail.com',
   googleAnalyticsV4: {
     enabled: false,
     id: ''
