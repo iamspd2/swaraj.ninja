@@ -27,7 +27,7 @@ export default {
     facebook: 'swaraj6',
     twitter: 'swalaxh',
     instagram: 'swaraj2',
-    codestats: 'swaraj-ninja' // https://codestats.net make a profile if you dont already have one.
+    codestats: 'swaraj-ninja'
   },
   buyMeACoffee: {
     enabled: true,
