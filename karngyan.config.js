@@ -22,12 +22,12 @@ export default {
     enabled: false
   },
   social: {
-    github: 'karngyan',
-    linkedin: 'karngyan',
-    facebook: 'karnsometimes',
-    twitter: 'gyankarn',
-    instagram: 'karngyan.dev',
-    codestats: 'karngyan' // https://codestats.net make a profile if you dont already have one.
+    github: 'iamspd2',
+    linkedin: 'theswaraj',
+    facebook: 'swaraj6',
+    twitter: 'swalaxh',
+    instagram: 'swaraj2',
+    codestats: 'swaraj-ninja' // https://codestats.net make a profile if you dont already have one.
   },
   buyMeACoffee: {
     enabled: true,
