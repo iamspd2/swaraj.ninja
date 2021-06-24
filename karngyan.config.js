@@ -103,7 +103,7 @@ export default {
       },
       blog: {
         header: 'blog',
-        subtext: 'i try to write once in a while. let me know your thoughts in comments or mail@karngyan.com'
+        subtext: 'i try to write once in a while. let me know your thoughts in comments or swarajdash40@gmail.com'
       },
       recentBlog: {
         header: 'recent blogs',
