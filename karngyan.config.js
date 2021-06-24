@@ -11,7 +11,7 @@ export default {
   },
   plausibleAnalytics: {
     enabled: true,
-    domain: 'template.karngyan.com',
+    domain: 'swaraj.ninja',
     trackLocalhost: false,
     // leave it empty if plausible is not self hosted
     apiHost: 'https://analytics.lookatx.dev' // default: https://plausible.io
