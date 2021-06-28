@@ -30,7 +30,7 @@ export default {
     codestats: 'swaraj-ninja'
   },
   buyMeACoffee: {
-    enabled: true,
+    enabled: false,
     url: 'https://www.buymeacoffee.com/karngyan'
   },
   projects: {
