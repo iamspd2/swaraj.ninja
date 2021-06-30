@@ -41,7 +41,7 @@ export default {
   },
   resume: {
     enabled: true,
-    pdfUrl: '/swaraj.pdf' // add files in static folder
+    pdfUrl: '/swaraj.pdf'
   },
   uses: {
     enabled: true,
