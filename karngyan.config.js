@@ -46,7 +46,7 @@ export default {
   uses: {
     enabled: true,
     meta: [
-      {title: 'OS', value: 'macOS Catalina'},
+      {title: 'OS', value: 'Ubuntu 20.04 LTS / Windows 10 Pro'},
       {title: 'Memory', value: '16 GB 2667 MHz DDR4'},
       {title: 'Keyboard', value: 'Keychron K2 - Gateron Brown Keys'},
       {title: 'Mouse', value: 'Logitech Silent Pebble'},
