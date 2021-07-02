@@ -24,9 +24,15 @@ So, this event took place from 17th Feb, 2021. I was in my final undegrad year. 
 
 Ok let's cut to the chase! I signed up individually for this event. Luckily my profile was shortlisted and I was paired alonsgide 3 other solo participants from India, coincidentally. Coincidentally, ours was also the only team that was created by the organizers. All the other teams were representing their college, including, Queens, Columbia, etc. I guess Indians don't really trust their friends.
 
-My team comprised of Himanshu Bajpai (from BITS, Pilani), Aanisha Bhattacharya (from IEM, Kolkata), Foridur Rahman (from Pune University) and of course, yours truly. We connected instantly, over WhatsApp, and the first thing we did was to come up with "Abraca-Data", the name for our team. Not bad, eh?
+My team comprised of Himanshu Bajpai (from BITS, Pilani), Aanisha Bhattacharya (from IEM, Kolkata), Foridur Rahman (from Pune University) and of course, yours truly. We connected instantly, over WhatsApp, and the first thing we did was to come up with "Abraca-Data", the name for our team. Not too bad, eh?
 
-Let's talk about the challenge now. 
+Let's talk about the hackathon now. It consisted of 3 challenges.
+
+1. Challenge 1 – Covid-19 Open Challenge
+2. Challenge 2 – Refugee Crisis: Predict Forced Displacement
+3. Challenge 3 – UN75 Visualisation Challenge
+
+We went with the 1st challenge. All of us recognized the sense of immediacy in this track and felt that research on Covid can help us come up with insights and inferences that we are not yet familiar with.
 
 You can add an image like this:
 
