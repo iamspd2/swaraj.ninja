@@ -16,13 +16,15 @@ author:
   image: /images/bigheadkarngyan.png
 ---
 
-Lorem markdownum facinus tollensque aethera acutae ripa arbor duorum, **vae**.
-Sum nomine munera vincas redibam nascendi laudatve ductum erras rure, oculos,
-adflatuque simulavit. Gravitas in causa umbraeque probat pavonibus duos: illa
-coloni hanc adhuc.
+If you're an engineer, I'm pretty sure you've taken part in at least one hackathon in your college days. And chances are high that winning one is/was also in your college bucket list. Well, at least it was for me. And I did it... finally. At long last.
 
 <!--more-->
 
+So, this event took place from 17th Feb, 2021. I was in my final undegrad year. I had been a regular hackathoner by this time, with a fair share of heartbreaks in my early days. By this time, the results didn't matter much, or not at all for that matter. It was about building something useful or discovering something fascinating. The idea is to come up with something that adds value. Hackathons are a great way to learn and explore a plethora of stuff.
+
+Ok let's cut to the chase! I signed up individually for this event. Luckily my profile was shortlisted and I was paired alonsgide 3 other solo participants from India, coincidentally. Coincidentally, ours was also the only team that was created by the organizers. All the other teams were representing their college, including, Queens, Columbia, etc. I guess Indians don't really trust their friends.
+
+I even missed the first day of the hackathon attending a family event.
 
 You can add an image like this:
 
