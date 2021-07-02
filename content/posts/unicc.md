@@ -24,7 +24,9 @@ So, this event took place from 17th Feb, 2021. I was in my final undegrad year. 
 
 Ok let's cut to the chase! I signed up individually for this event. Luckily my profile was shortlisted and I was paired alonsgide 3 other solo participants from India, coincidentally. Coincidentally, ours was also the only team that was created by the organizers. All the other teams were representing their college, including, Queens, Columbia, etc. I guess Indians don't really trust their friends.
 
-I even missed the first day of the hackathon attending a family event.
+My team comprised of Himanshu Bajpai (from BITS, Pilani), Aanisha Bhattacharya (from IEM, Kolkata), Foridur Rahman (from Pune University) and of course, yours truly. We connected instantly, over WhatsApp, and the first thing we did was to come up with "Abraca-Data", the name for our team. Not bad, eh?
+
+Let's talk about the challenge now. 
 
 You can add an image like this:
 
