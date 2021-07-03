@@ -58,7 +58,7 @@ export default {
     // add logos in static and at max add 3/4
     enabled: true,
     meta: [
-      { name: 'Spikewell', src: '/images/spkwl.png', url: 'https://www.spikewell.com/' },
+      { name: 'Spikewell', src: '/images/spikewell.png', url: 'https://www.spikewell.com/' },
       { name: 'Mindfire', src: '/images/mindfire.png', url: 'https://www.mindfiresolutions.com/' }
     ]
   },
