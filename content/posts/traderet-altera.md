@@ -1,6 +1,6 @@
 ---
 id: 2
-title: How I got Microsoft Certified
+title: How I became Microsoft Certified
 createdAt: "2021-05-20 5:00:00"
 # image field is not mandatory
 # you can skip it to keep the size of blog cards small
