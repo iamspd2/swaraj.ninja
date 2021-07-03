@@ -34,6 +34,8 @@ Let's talk about the hackathon now. It consisted of 3 challenges.
 
 We went with the 1st challenge. All of us recognized the sense of immediacy in this track and felt that research on Covid can help us come up with insights and inferences that we are not yet familiar with.
 
+In the end, we came up with a new outlook on the pandemic and how we could help fight this and similar pandemics in the future.
+
 You can add an image like this:
 
 Add your images to static directory and

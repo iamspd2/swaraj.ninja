@@ -48,9 +48,9 @@ export default {
     meta: [
       {title: 'OS', value: 'Ubuntu 20.04 LTS / Windows 10 Pro'},
       {title: 'Memory', value: '16 GB 2667 MHz DDR4'},
-      {title: 'Keyboard', value: 'Keychron K2 - Gateron Brown Keys'},
-      {title: 'Mouse', value: 'Logitech Silent Pebble'},
-      {title: 'Monitor', value: 'LG QHD (2560 x 1440) 27 Inch IPS Display'},
+      // {title: 'Keyboard', value: 'Keychron K2 - Gateron Brown Keys'},
+      // {title: 'Mouse', value: 'Logitech Silent Pebble'},
+      // {title: 'Monitor', value: 'LG QHD (2560 x 1440) 27 Inch IPS Display'},
       {title: 'Laptop • Processor • Graphics', value: 'MacBook Pro (16-inch, 2019) • 2.6 GHz 6-Core Intel Core i7 • AMD Radeon Pro 5300M 4 GB + Intel UHD Graphics 630 1536 MB'}
     ]
   },
@@ -58,8 +58,8 @@ export default {
     // add logos in static and at max add 3/4
     enabled: true,
     meta: [
-      { name: 'Spikewell', src: '/images/spikewell.png', url: 'https://www.spikewell.com/' },
-      { name: 'Mindfire', src: '/images/mindfire.jpg', url: 'https://www.mindfiresolutions.com/' }
+      { name: 'Spikewell', src: '/images/spkwl.png', url: 'https://www.spikewell.com/' },
+      { name: 'Mindfire', src: '/images/mindfire.png', url: 'https://www.mindfiresolutions.com/' }
     ]
   },
   loadingIndicator: {
