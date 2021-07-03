@@ -36,20 +36,16 @@ We went with the 1st challenge. All of us recognized the sense of immediacy in t
 
 In the end, we came up with a new outlook on the pandemic and how we could help fight this and similar pandemics in the imminent future.
 
+To know about our findings in detail, feel free to read our interview with UNICC here.
+
 You can add an image like this:
 
-Add your images to static directory and
-
-```md
-![Big Head Karn](/images/bigheadkarngyan.png)
-```
+Add your images to static directory
 
 ![Big Head Karn](/images/bigheadkarngyan.png)
 
 Or like this if you want to resize it:
-```html
-<img width="30%" src="/images/bigheadkarngyan.png" alt="Big Head Karn"/>
-```
+
 <img width="30%" src="/images/bigheadkarngyan.png" alt="Big Head Karn"/>
 
 Dignatus sorores

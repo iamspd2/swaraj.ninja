@@ -86,7 +86,7 @@ export default {
         projects: 'projects',
         uses: 'uses',
         resume: 'résumé',
-        buyMeACoffee: 'buy me a coffee',
+        buybuyMeACoffee: 'buy me a coffee',
         signIn: 'sign in',
         signOut: 'sign out'
       },
