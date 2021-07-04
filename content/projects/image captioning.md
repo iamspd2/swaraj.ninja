@@ -1,15 +1,21 @@
 ---
 id: 2
-title: covidhelp.page
-description: it helped match plasma and blood donors, i18n supported with 5 indian languages. also had a vaccine notifier built in
-tech: golang vue aws
+title: automatic image captioning
+description: combining cnn and rnn to produce a deep learning model that produces captions for any given image based on the objects present
+tech: python pytorch jupyter
 logo: /images/covidhelp-page.png
-website: https://covidhelp.page
-github: https://github.com/karngyan/covidhelp.ui
-twitter: gyankarn
+website: https://github.com/iamspd2/automatic-image-captioning
+github: https://github.com/iamspd2/automatic-image-captioning
+twitter: swalaxh
 ---
 
-# Creten se ad guttur aquis oracula cineres
+Image captioning requires us to create a complex deep learning model with two components: a CNN that transforms an input image into a set of features, and an RNN that turns those features into rich, descriptive language.
+
+In this project I combined Convolutional Neural Networks (CNN) and Recurrent Neural Networks (RNN) techniques to build a deep learning model, trained on Microsoft's Common Objects in Context (COCO) dataset that produces captions given an input image.
+
+This was the second project of my Computer Vision Nanodegree course.
+
+<!-- # Creten se ad guttur aquis oracula cineres
 
 ## Nostri considerat volucrum
 
@@ -67,4 +73,4 @@ caelo.
 [cuspidis agrosque]: http://www.custodit.org/hac-et
 [cygnis ieiunia]: http://quae.com/quasaliena.php
 [facinus poenam]: http://succedere.net/
-[inposuit fertur]: http://virgine.com/pugnasobscenique
+[inposuit fertur]: http://virgine.com/pugnasobscenique -->

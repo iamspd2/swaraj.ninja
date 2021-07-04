@@ -1,22 +1,22 @@
 ---
 id: 1
-title: get.interviewready.io
-description: a system design course website serving 5k+ users, content provided by youtuber gaurav sen. (freelance)
-tech: golang nuxt postgres aws
+title: restaurant pos app
+description: a complete restaurant ordering app that takes care of all the Point of Sales (PoS) in such a system.
+tech: java kotlin android
 logo: /images/interviewready-io.png
-website: https://get.interviewready.io
-github: https://github.com/InterviewReady
-twitter: gyankarn
+website: https://github.com/iamspd2/posapp
+github: https://github.com/iamspd2/posapp
+twitter: swalaxh
 ---
 
-# Sed etiam fuit oraque est
+Bars and restaurants use various different point of sale (PoS) systems and with different APIs. It is useful to have a unified API so that one doesn’t have to deal with the integration of every single PoS API every time. 
 
-## Quod Alemone auctorem perdiderat conplevit nempe Achille
+This project is a complete restaurant ordering app that takes care of all the Point of Sales (PoS) in a bar/restaurant environment. The end result is an Android app with features including user authentication, profile management, map/search facilities, tab keeping, checkout, payment using popular gateways such as GPay. Backend services are obtained from Firebase.
 
-Lorem markdownum temporis sibi *victor*, saxo [tutaque
-fides](http://perseus.io/) exit! Harenas tumulo molles tenebras dracone metit,
-numina, ipse Somnia, protulit.
+This project was assigned to me during my internship at Spikewell. It was to develop my dev skills as well as test it before I could be put in a client project.
 
+Check out the readme of the [GitHub repo](https://github.com/iamspd2/posapp) here to get a detailed account of the project.
+<!-- 
 > Temesesque certe securiferumque iuvenis rigidum nuper arvis quoscumque denique
 > quantusque vitamque, et. Curva inpia rogum, ferar coepit prima: meo nec
 > faciebant.
@@ -58,4 +58,4 @@ Quid spe sustinuit, dispersa temperat, aureus, utraque *plura*; nec nec dolens
 monstrum. Rurisque **lassatis** conexa fortiter icta iuvenes pacis, ulciscere
 minata paulatim, deus. Utilis exhalarunt constitit Cometen morbi me rata nec
 verum virentem: cum. Auras senex moram, a fugant quoque, ora qui quos castaque
-est, et dux, modo?
+est, et dux, modo? -->
