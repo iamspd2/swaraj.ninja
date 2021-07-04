@@ -30,7 +30,6 @@ Ok let's cut to the chase! I signed up individually for this event. Luckily my p
 
 <img width="75%" src="/images/blog/unicc/countries.jpg" alt="List of countries"/>
 
-
 My team comprised of Himanshu Bajpai (from BITS, Pilani), Aanisha Bhattacharya (from IEM, Kolkata), Foridur Rahman (from Pune University) and of course, yours truly. We connected instantly, over WhatsApp, and the first thing we did was to come up with "Abraca-Data", the name for our team. Not too bad, eh?
 
 Let's talk about the hackathon now. It consisted of 3 challenges.
@@ -41,9 +40,13 @@ Let's talk about the hackathon now. It consisted of 3 challenges.
 
 We went with the 1st challenge. All of us recognized the sense of immediacy in this track and felt that research on Covid can help us come up with insights and inferences that we are not yet familiar with.
 
-In the end, we came up with a new outlook on the pandemic and how we could help fight this and similar pandemics in the imminent future.
+In the end, we came up with a new outlook on the pandemic and how we could help fight this and similar pandemics in the imminent future. Our research was liked by the eminent jury panel that consisted of members from UNICC and other United Nations organizations, and we were subsequently awarded with the 1st place in the Covid-19 Open Challenge Track.
 
-To know about our findings in detail, feel free to read our interview with UNICC here.
+<img width="75%" src="/images/blog/unicc/winners.jpeg" alt="Winners"/>
+
+To know about our findings, read our interview with UNICC here.
+
+<img width="75%" src="/images/blog/unicc/interview.jpg" alt="UNICC Feature"/>
 
 <!-- You can add an image like this:
 
