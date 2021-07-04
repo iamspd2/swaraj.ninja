@@ -38,7 +38,7 @@ In the end, we came up with a new outlook on the pandemic and how we could help 
 
 To know about our findings in detail, feel free to read our interview with UNICC here.
 
-You can add an image like this:
+<!-- You can add an image like this:
 
 Add your images to static directory
 
@@ -47,6 +47,14 @@ Add your images to static directory
 Or like this if you want to resize it:
 
 <img width="30%" src="/images/bigheadkarngyan.png" alt="Big Head Karn"/>
+
+# How about this as a heading
+
+## And how about this as a heading
+
+### And this
+
+#### One more
 
 Dignatus sorores
 ================
@@ -124,4 +132,4 @@ tonitrua sublimis** dumque mittit et et sparsurus.
 [Inachis dixit sceleris]: http://ordoconsurgit.com/
 [dabis sine arma]: http://totoque.net/
 [est inquirit]: http://nulloet.net/
-[linguaque inmoritur]: http://raptadivamque.net/
+[linguaque inmoritur]: http://raptadivamque.net/ -->
