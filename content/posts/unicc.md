@@ -44,9 +44,11 @@ In the end, we came up with a new outlook on the pandemic and how we could help 
 
 <img width="75%" src="/images/blog/unicc/winners.jpeg" alt="Winners"/>
 
-To know about our findings, read our interview with UNICC here.
+To know about our findings, read our interview with UNICC [here].
 
 <img width="75%" src="/images/blog/unicc/interview.jpg" alt="UNICC Feature"/>
+
+[here]: https://www.unicc.org/news/2021/03/12/abraca-data-a-team-of-young-talent-forged-by-chance-fortified-by-data/
 
 <!-- You can add an image like this:
 
