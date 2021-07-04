@@ -1,8 +1,8 @@
 ---
 id: 2
 title: automatic image captioning
-description: combining cnn and rnn to produce a deep learning model that produces captions for any given image based on the objects present
-tech: python pytorch jupyter
+description: combination of a cnn and rnn to produce a model that produces captions for any given image based on the objects present
+tech: python pytorch
 logo: /images/covidhelp-page.png
 website: https://github.com/iamspd2/automatic-image-captioning
 github: https://github.com/iamspd2/automatic-image-captioning

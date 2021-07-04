@@ -1,19 +1,18 @@
 ---
 id: 4
-title: karngyan.com
-description: developer oriented portfolio website template for devs to quickly setup a blog and showcase projects
-tech: nuxt tailwindcss
+title: travel app
+description: capstone project of udacity fend program, where multiple front-end skills are required to be put into use as per the given rubric
+tech: front-end
 logo: /images/karngyan-com.png
-website: https://karngyan.com
-github: https://github.com/karngyan/karngyan.com
-twitter: gyankarn
+website: https://github.com/iamspd2/fend-travel-app
+github: https://github.com/iamspd2/fend-travel-app
+twitter: swalaxh
 ---
 
-# Sustinet possit referamus caeca
+This project involves a travel planning application, where the user can plan trips. The user enters the name of their destination and planned departure, and by using Geonames API for reverse geocoding and WeatherBit API to fetch future weather forecast, the app provides the necessary information. An image of the place is also displayed using Pixabay API. The user can also save trips for future reference. This project was my capstone project for Udacity's FEND program.
 
-## Relevare et in fortissime dammis poples ut
 
-Lorem markdownum casus, dat ignes horamque et oculi quamquam habemus insuetum
+<!-- Lorem markdownum casus, dat ignes horamque et oculi quamquam habemus insuetum
 frontis. Radices moveri nulla inania cunctos, pectora de omni deum. Cum his in
 **Lelex**. Modo amnes; et notum gelidos. Per qui.
 
@@ -56,4 +55,4 @@ navibus. Enim imas, inpiger sol paludes magis inritus, mens sucos litore.
 Manu superos; stratum monte, dedit toro perque Pallas, non? Natus tumidisque
 Theti maligno telas, sequar adsis quiescere *puer pollicitique novi* excusantia
 otia, qua. Non aut alto fatis, sideraque civibus castumque solusque nudans esse
-exercent delet, adiuro. Indoluit paelice quam reppulit porta; ieiunia sic.
+exercent delet, adiuro. Indoluit paelice quam reppulit porta; ieiunia sic. -->
