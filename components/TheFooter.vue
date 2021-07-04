@@ -37,15 +37,15 @@
           </a>
         </div>
         <p class="mt-8 text-sm leading-6 text-gray-400 md:mt-0 md:order-1">
-          {{ $config.name }} • dev template by <span class="ceator-preview hover:text-hot-pink text-gray-300">
-          <a class="hidden md:inline-block" rel="noreferrer" target="_blank" href="https://github.com/karngyan/karngyan.com">
+          {{ $config.name }} • created by <span class="ceator-preview hover:text-hot-pink text-gray-300">
+          <a class="hidden md:inline-block" rel="noreferrer" target="_blank" href="https://github.com/iamspd2">
           <creator-preview
             :avatar="avatar"
             :name="name"
             :description="description"
             :content="content" :mode="mode" />
           </a>
-          <a class="inline-block md:hidden" target="_blank" href="https://github.com/karngyan/karngyan.com">{{ name }} </a>
+          <!-- <a class="inline-block md:hidden" target="_blank" href="https://github.com/iamspd2">{{content}}</a> -->
           </span>
         </p>
       </div>
@@ -63,12 +63,12 @@ export default {
   },
   data() {
     return {
-      avatar: 'https://cdn.karngyan.com/karn.jpg',
-      name: 'Karn',
+      avatar: 'https://i.imgur.com/ulCZ6yT.jpg',
+      name: 'Swaraj',
       mode: 'dark',
       description: 'Software Engineer who tinkers with side projects, every now n then.',
-      content: `Hey, I am Karn 👋<br/> I built this template for procrastinating devs to set up their portfolio + blogs<br/><br/>
-Click on the link to visit the github repo to fork 👇🏾`,
+      content: `Hey, I am Swaraj 👋<br/> Welcome to my website. Here you will find my portfolio + blog<br/><br/>
+Click on the link to visit my github 👇🏾`,
     }
   }
 }
