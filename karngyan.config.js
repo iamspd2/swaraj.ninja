@@ -3,7 +3,7 @@
 export default {
   name: 'swaraj priyadarshan dash',
   domain: 'swaraj.ninja', // add without https:// , used in meta tags and share urls
-  image: '/images/bigheadkarngyan.png',
+  image: '/images/bighead.png',
   email: 'swarajdash40@gmail.com',
   googleAnalyticsV4: {
     enabled: false,

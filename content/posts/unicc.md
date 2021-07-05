@@ -13,7 +13,7 @@ category: hackathon
 author:
   name: swaraj
   twitter: swalaxh
-  image: /images/bigheadkarngyan.png
+  image: /images/bighead.png
 ---
 
 ![Poster](/images/blog/unicc/register.png)
@@ -54,11 +54,11 @@ To know about our findings, read our interview with UNICC [here].
 
 Add your images to static directory
 
-![Big Head Karn](/images/bigheadkarngyan.png)
+![Big Head Karn](/images/bighead.png)
 
 Or like this if you want to resize it:
 
-<img width="30%" src="/images/bigheadkarngyan.png" alt="Big Head Karn"/>
+<img width="30%" src="/images/bighead.png" alt="Big Head Karn"/>
 
 # How about this as a heading
 
