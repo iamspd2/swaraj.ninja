@@ -47,11 +47,11 @@ export default {
     enabled: true,
     meta: [
       {title: 'OS', value: 'Ubuntu 20.04 LTS / Windows 10 Pro'},
-      {title: 'Memory', value: '16 GB 2667 MHz DDR4'},
+      {title: 'Memory', value: '8 GB 2133 MHz DDR4'},
       // {title: 'Keyboard', value: 'Keychron K2 - Gateron Brown Keys'},
       // {title: 'Mouse', value: 'Logitech Silent Pebble'},
       // {title: 'Monitor', value: 'LG QHD (2560 x 1440) 27 Inch IPS Display'},
-      {title: 'Laptop • Processor • Graphics', value: 'MacBook Pro (16-inch, 2019) • 2.6 GHz 6-Core Intel Core i7 • AMD Radeon Pro 5300M 4 GB + Intel UHD Graphics 630 1536 MB'}
+      {title: 'Laptop • Processor • Graphics', value: 'Acer Aspire E5-575G (15.6-inch, 2017) • 2.5 GHz 4-Core Intel Core i5 • NVIDIA GeForce 940MX 2 GB + Intel HD Graphics 620 4158 MB'}
     ]
   },
   workedAt: {
